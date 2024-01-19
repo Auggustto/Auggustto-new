@@ -22,7 +22,7 @@ Principais projetos em que atuei/atuo:
 ### Conhecimentos:
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)&nbsp;
-<!--![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP)&nbsp;-->
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP)&nbsp;
 ![Node](https://img.shields.io/badge/Node-000?style=for-the-badge&logo=Node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)&nbsp;
