@@ -39,5 +39,5 @@ Principais projetos em que atuei/atuo:
 [Perfil na DIO](https://www.dio.me/users/leonardoaugusto1000)
 ##
 
-![](https://komarev.com/ghpvc/?username=Auggustto&label=PROFILE+VIEWS)
-![](https://hit.yhype.me/github/profile?user_id=93408782)
+<!--![](https://komarev.com/ghpvc/?username=Auggustto&label=PROFILE+VIEWS)
+![](https://hit.yhype.me/github/profile?user_id=93408782)-->
